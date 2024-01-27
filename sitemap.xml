@@ -3,17 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://pvskp.com/</loc>
+    <loc>https://pvskp.com/resume/</loc>
+    <lastmod>2024-01-27T13:00:15-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://pvskp.com/about/</loc>
+    <lastmod>2024-01-27T12:56:15-03:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://pvskp.com/resume/</loc>
+    <loc>https://pvskp.com/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
