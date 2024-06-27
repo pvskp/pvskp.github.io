@@ -6,27 +6,28 @@
     <description>Recent content on pvskp&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Paulo Vinícius</copyright>
+    <lastBuildDate>Sat, 27 Jan 2024 13:00:15 -0300</lastBuildDate>
     <atom:link href="https://pvskp.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>resume</title>
       <link>https://pvskp.com/resume/</link>
       <pubDate>Sat, 27 Jan 2024 13:00:15 -0300</pubDate>
-      
       <guid>https://pvskp.com/resume/</guid>
       <description></description>
-      
     </item>
-    
     <item>
       <title></title>
       <link>https://pvskp.com/about/</link>
       <pubDate>Sat, 27 Jan 2024 12:56:15 -0300</pubDate>
-      
       <guid>https://pvskp.com/about/</guid>
-      <description>Who I am # I am a Computer Science student at Universidade Estadual de Campinas (UNICAMP), a Linux and Open Source enthusiast, and a Pokémon trainer.</description>
-      
+      <description>Who I am I am a Computer Science student at Universidade Estadual de Campinas (UNICAMP), a Linux and Open Source enthusiast, and a Pokémon trainer.</description>
     </item>
-    
+    <item>
+      <title>A pluginless Neovim setup</title>
+      <link>https://pvskp.com/posts/my-first-post/</link>
+      <pubDate>Wed, 24 Jan 2024 23:30:15 -0300</pubDate>
+      <guid>https://pvskp.com/posts/my-first-post/</guid>
+      <description>Introduction </description>
+    </item>
   </channel>
 </rss>
